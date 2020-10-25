@@ -4,6 +4,4 @@
 - Developing a Korean Open-Domain Chatbot [Luda](https://luda.ai/).
 ### 📫 How to reach me: ...
 - E-mail: [dawoon@scatterlab.co.kr](dawoon@scatterlab.co.kr)
-- LinkedIn: [https://www.linkedin.com/in/dawoon-jung-396551152/](https://www.linkedin.com/in/dawoon-jung-396551152/)
-- Soundcloud: [https://soundcloud.com/noowad](https://soundcloud.com/noowad)
-- Instagram: @noowad93
+- LinkedIn: [noowad93](https://www.linkedin.com/in/noowad93)
