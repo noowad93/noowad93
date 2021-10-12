@@ -5,3 +5,5 @@
 ### 📫 How to reach me: ...
 - E-mail: [dawoon@scatterlab.co.kr](dawoon@scatterlab.co.kr)
 - LinkedIn: [noowad93](https://www.linkedin.com/in/noowad93)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noowad93)](https://github.com/anuraghazra/github-readme-stats)
